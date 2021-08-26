@@ -1,7 +1,6 @@
 # Frontend Mentor - Sunnyside agency landing page
 
-![screencapture-127-0-0-1-5500-2021-08-26-12_35_47](https://user-images.githubusercontent.com/48568104/130948276-aa5591ab-8d40-4339-9581-eb95729c6465.jpg)
-
+![127 0 0 1_5500_(iPhone 6_7_8 Plus)](https://user-images.githubusercontent.com/48568104/130948362-4a0f13f1-3404-448b-a7ea-8b9820c7909a.png)
 
 ## Welcome! 👋
 
